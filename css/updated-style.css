@@ -1,0 +1,29 @@
+.navigation-link.white.w--current {
+    color: #e31550;
+}
+
+section {
+    min-height: 100vh;
+    height: auto;
+}
+
+#nav-header-container{
+    background: transparent;
+    transition: all ease-in-out .3s;
+}
+
+.section-dark.section-header-dev{
+    background: white;
+}
+
+#about {
+    background: #f2f4f8;
+}
+
+#clients {
+    min-height: 60vh;
+}
+
+.clients-h3{
+    text-align: center;
+}
